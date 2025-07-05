@@ -19,10 +19,13 @@ Test Steps
 8) Dashboard Page is Redirected.
 
 Expected Result
+
 User is redirected to the Dashboard page and all the user details along with name and order history is displayed.
 
 Pass/Fail Criteria
+
 Pass- User will be redirected to the Dashboard Page if passed.
+
 Fail- User will not be redirected to the Dashboard Page if failed.
 
 🔹 Test Case 2: Search → Product Detail Page
@@ -47,10 +50,13 @@ Test Steps
 9) User will be redirected to Product Detail Page.
 
 Expected Result
+
 Product Detail Page is opened with desired product and the details of the product
 
 Pass/Fail Criteria
+
 Pass- Product detail page is opened with correct product details if pass.
+
 Fail- Product detail page fails to open if fail.
 
 🔹 Test Case 3: Product Detail → Add to Cart → Cart Page
@@ -80,10 +86,13 @@ Test Steps
 13) User will be redirected to the Cart Page where user can see the Added Product(s).
 
 Expected Result
+
 Add to Cart Page is Redirected with Correct Product quantity and Variant(if applicable).
 
 Pass/Fail Criteria
+
 Pass- Cart Page Functionality works correctly if pass.
+
 Fail- Cart Page Functionality does not works correctly if fail.
 
 🔹 Test Case 4: Cart → Checkout → Address Page
@@ -116,9 +125,12 @@ Test Steps
 16) User will enter Address Textfield Functionality.
 
 Expected Result
+
 User is redirected to Address Page.
 
 Pass/Fail Criteria
+
 Pass- User is redirected to the Address Page if pass. 
+
 Fail- User is not  redirected to the Address Page if fail.
 
