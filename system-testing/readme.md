@@ -7,19 +7,27 @@ SYSTEM TESTING TEST CASES(Amazon.com)
 
 2)	Preconditions:
 a)	User must be registered with a valid email and password
+
 b)	Application server is running
 
-3)	Test Steps
+4)	Test Steps
 a)	Open the Browser and go to www.amazon.com.
+
 b)	User will be redirected to the Welcome Page.
+
 c)	User will click on Sign in Button.
+
 d)	User will be Redirected to the Sign in Page.
+
 e)	User will Enter the Valid Mobile Number/E-mail which is registered.
+
 f)	User will Enter the Valid Password.
+
 g)	User will click on Sign in Option.
+
 h)	Confirmation Message is Displayed.
 
-4)	Test Data
+6)	Test Data
 a)	E-mail- testuser@gmail.com
 b)	Password- Test@432
 
